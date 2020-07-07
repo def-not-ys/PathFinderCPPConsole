@@ -1,7 +1,7 @@
 # PathFinderCPPConsole
 A C++ console app implementing path finding algorithms   
 
-A path finding app built using [olcConsoleGameEngin](https://github.com/OneLoneCoder/olcPixelGameEngine). *courtesy to OneLoneCoder*
+A path finding app built using [olcConsoleGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine). *courtesy to OneLoneCoder*
 
 This app explores three different path finding algorithms (**A star**, **Breadth First Search**, **Depth First Search**) to find *a* path from start node(green) to end node(red) in a 2D grid.
 
